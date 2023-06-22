@@ -4,7 +4,7 @@ libmobiledevice for Windows with the installer
 [Original](https://github.com/iFred09/libimobiledevice-windows) was compiled by [iFred09](https://github.com/iFred09)
 
 # How to install
-Download from [releases](https://github.com/z3ven/libmobiledevice-windows/release/) file libimobiledevice_installer.exe.
+Download  [file](https://raw.githubusercontent.com/z3ven/libmobiledevice-windows/main/libimobildeviceinstaller.exe)
 
 To install run 'libimobiledevice_installer.exe'
 
